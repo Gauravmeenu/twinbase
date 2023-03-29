@@ -1,4 +1,7 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/a71ee252-8624-4700-82c3-b29cbe74f4fe
+hosting-iri: https://Gauravmeenu.github.io/twinbase/a71ee252-8624-4700-82c3-b29cbe74f4fe
 name: Gaurav's twin!
 description: this is the new twin created here.
+baseurl: https://Gauravmeenu.github.io/twinbase
+edit: https://github.com/Gauravmeenu/twinbase/edit/main/docs/a71ee252-8624-4700-82c3-b29cbe74f4fe/index.yaml
+edit-json: https://github.com/Gauravmeenu/twinbase/edit/main/docs/a71ee252-8624-4700-82c3-b29cbe74f4fe/index.json

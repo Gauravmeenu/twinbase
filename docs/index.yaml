@@ -6,3 +6,5 @@ new_twin_url: https://github.com/Gauravmeenu/twinbase/new/main?filename=docs/edi
 twins:
 - url: https://Gauravmeenu.github.io/twinbase/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
+- url: https://Gauravmeenu.github.io/twinbase/a71ee252-8624-4700-82c3-b29cbe74f4fe
+  name: Gaurav's twin!

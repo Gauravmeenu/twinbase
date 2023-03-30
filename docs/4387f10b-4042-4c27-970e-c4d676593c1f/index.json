@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/4387f10b-4042-4c27-970e-c4d676593c1f",
+    "hosting-iri": "https://Gauravmeenu.github.io/twinbase/4387f10b-4042-4c27-970e-c4d676593c1f",
+    "name": "IOT-Eclipse Ditto temperature Sensor",
+    "description": "Collecting temp. data of temp. sensor from arduino.",
+    "baseurl": "https://Gauravmeenu.github.io/twinbase",
+    "edit": "https://github.com/Gauravmeenu/twinbase/edit/main/docs/4387f10b-4042-4c27-970e-c4d676593c1f/index.yaml",
+    "edit-json": "https://github.com/Gauravmeenu/twinbase/edit/main/docs/4387f10b-4042-4c27-970e-c4d676593c1f/index.json"
+}
